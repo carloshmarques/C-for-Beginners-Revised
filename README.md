@@ -4,9 +4,10 @@
 
 <div align="center">
   <!-- Change your logo -->
-  <a href="https://github.com/carloshmarques/C-for-Beginners-Revised">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/C-for-Beginners-Revised's logo">
+  <a href="https://github.com/carloshmarques/Foundational-CSharp-course-with-Microsoft-Learn">
+    <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@ccarloshmarques/C-for-Beginners-Revised logo">
   </a>
+  <br>
   <br>
   <a href="https://github.com/carloshmarques/C-for-Beginners-Revised/issues">
     <img src="https://img.shields.io/github/issues/carloshmarques/C-for-Beginners-Revised?color=0088ff&style=for-the-badge&logo=github" alt="carloshmarques/C-for-Beginners-Revised's issues"/>
