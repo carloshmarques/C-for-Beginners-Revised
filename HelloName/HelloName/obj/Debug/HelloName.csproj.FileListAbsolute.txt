@@ -5,3 +5,10 @@ C:\Users\carlo\source\repos\cursos\Golan\C# For Begginers Revised\HelloName\Hell
 C:\Users\carlo\source\repos\cursos\Golan\C# For Begginers Revised\HelloName\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
 C:\Users\carlo\source\repos\cursos\Golan\C# For Begginers Revised\HelloName\HelloName\obj\Debug\HelloName.exe
 C:\Users\carlo\source\repos\cursos\Golan\C# For Begginers Revised\HelloName\HelloName\obj\Debug\HelloName.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\HelloName\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\HelloName\HelloName\bin\Debug\HelloName.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\HelloName\HelloName\bin\Debug\HelloName.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\HelloName\HelloName\obj\Debug\HelloName.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\HelloName\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\HelloName\HelloName\obj\Debug\HelloName.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\HelloName\HelloName\obj\Debug\HelloName.pdb

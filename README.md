@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD032 MD033-->
 <!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
-# 🔥 **carloshmarques/C-for-Beginners-Revised**
+# 🔥 **carloshmarques/CSharp-for-Beginners-Revised**
 
 <div align="center">
   <!-- Change your logo -->
@@ -21,7 +21,7 @@
 
 ## 🤔 **About the project**
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+* After a one-year break due to an ischemic stroke, I thought it would be good, sensible and prudent to retake the C# for Beginners course so that; Firstly, review the material, so that my brain doesn't erase this recent information from my memory (when it comes to brain injuries, you never know how it will react), secondly, I take the opportunity to redo and eliminate bad practices as well, so that I can progress to another level of learning.
 
 ---
 

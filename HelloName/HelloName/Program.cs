@@ -10,10 +10,20 @@ namespace HelloName
     {
         static void Main(string[] args)
         {
+            //Link to source project
+            // https://youtu.be/2pquQMSYk6c?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di
+            // Set the console window title.//
+            Console.Title = "Hello Name";
+            Console.ReadKey();
+            // Display a greeting to the user.//
+            // Ask the user for their name and then greet them by name.//
             Console.WriteLine("Hello, what is your name?");
             var name = Console.ReadLine();
-            Console.WriteLine($"Hello, {name}; ");
+            // Greet the user by name.//
+            Console.WriteLine(name);
+            // Wait for the user to acknowledge the results.//
             Console.ReadKey();
+            // Contnue here: https://youtu.be/2pquQMSYk6c?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di&t=454
 
         }
     }

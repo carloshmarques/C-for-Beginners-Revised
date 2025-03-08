@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carlo\\source\\repos\\cursos\\Golan\\C# For Begginers Revised\\HelloName\\",
+  "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\HelloName\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A19457C7-5F73-4157-89D3-C70FB2A25841}|HelloName\\HelloName.csproj|c:\\users\\carlo\\source\\repos\\cursos\\golan\\c# for begginers revised\\helloname\\helloname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A19457C7-5F73-4157-89D3-C70FB2A25841}|HelloName\\HelloName.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\helloname\\helloname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A19457C7-5F73-4157-89D3-C70FB2A25841}|HelloName\\HelloName.csproj|solutionrelative:helloname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\cursos\\Golan\\C# For Begginers Revised\\HelloName\\HelloName\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\HelloName\\HelloName\\Program.cs",
               "RelativeDocumentMoniker": "HelloName\\Program.cs",
-              "ToolTip": "C:\\Users\\carlo\\source\\repos\\cursos\\Golan\\C# For Begginers Revised\\HelloName\\HelloName\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\HelloName\\HelloName\\Program.cs",
               "RelativeToolTip": "HelloName\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T22:15:56.807Z",
               "EditorCaption": ""
