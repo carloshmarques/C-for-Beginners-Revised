@@ -25,41 +25,24 @@
 
 ---
 
-## ⚡ **Installation**
+## ❄️ **Tools & code processors**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
-
----
-
-## 🚀 **Usage**
-
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+* <img align="center" alt="visual studio" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
 ---
 
-## 🌲 **Project tree**
+## ⚡ **Programming Languages**
 
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
-
----
-
-## 📝 **Additional notes**
-
-* <!-- ... [ADD ADDITIONAL NOTES] -->
+* <img align="center" alt="c#" height="30" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 ---
 
-## 📸 **Screenshots**
-
-<!-- ... [SOME DESCRIPTIVE IMAGES] -->
-
----
 
 ## 🍰 **Supporters and donators**
 
 <!-- Change your small logo -->
-<a href="https://github.com/carloshmarques/C for-Beginners-Revised">
-  <img alt="@carloshmarques/C for-Beginners-Revised's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+  <a href="https://github.com/carloshmarques/C for-Beginners-Revised">
+  <img alt="@carloshmarques/C Sharp-for-Beginners-Revised's brand logo without text" align="right" src="https://i.imgur.com/i8hCIzh.jpg" width="10%" />
 </a>
 
 
@@ -67,16 +50,15 @@ We are currently looking for new donators to help and maintain this project! ❤
 
 By donating, you will help the development of this project, and *you will be featured in this C-for-Beginners-Revised's README.md*, so everyone can see your kindness and visit your content ⭐.
 
-<a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-carloshmarques/C for-Beginners-Revised-blue?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
+<a href="https://github.com/sponsors/carloshmarques"><!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM --><img alt= "logo" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red"></a><br><br>
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
 
 ---
 
-C-for-Beginners-Revised was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
+C-Sharp-for-Beginners-Revised was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
 
+<!--
 ---
 
 ## 🕵️ Extra recommendations
