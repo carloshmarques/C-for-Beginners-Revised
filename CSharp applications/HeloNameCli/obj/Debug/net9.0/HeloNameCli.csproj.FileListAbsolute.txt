@@ -1,0 +1,15 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\bin\Debug\net9.0\HeloNameCli.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\bin\Debug\net9.0\HeloNameCli.deps.json
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\bin\Debug\net9.0\HeloNameCli.runtimeconfig.json
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\bin\Debug\net9.0\HeloNameCli.dll
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\bin\Debug\net9.0\HeloNameCli.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.AssemblyInfo.cs
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.sourcelink.json
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.dll
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\refint\HeloNameCli.dll
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\HeloNameCli.genruntimeconfig.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharp applications\HeloNameCli\obj\Debug\net9.0\ref\HeloNameCli.dll
