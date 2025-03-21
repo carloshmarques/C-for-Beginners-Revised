@@ -1,0 +1,7 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\Data Type's Tutorial\EmployeeAApplication\EmployeeAApplication\bin\Debug\EmployeeAApplication.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\Data Type's Tutorial\EmployeeAApplication\EmployeeAApplication\bin\Debug\EmployeeAApplication.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\Data Type's Tutorial\EmployeeAApplication\EmployeeAApplication\bin\Debug\EmployeeAApplication.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\Data Type's Tutorial\EmployeeAApplication\EmployeeAApplication\obj\Debug\EmployeeAApplication.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\Data Type's Tutorial\EmployeeAApplication\EmployeeAApplication\obj\Debug\EmployeeAApplication.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\Data Type's Tutorial\EmployeeAApplication\EmployeeAApplication\obj\Debug\EmployeeAApplication.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\Data Type's Tutorial\EmployeeAApplication\EmployeeAApplication\obj\Debug\EmployeeAApplication.pdb
