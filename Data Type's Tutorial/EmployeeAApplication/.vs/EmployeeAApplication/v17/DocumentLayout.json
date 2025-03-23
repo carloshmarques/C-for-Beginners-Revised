@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\Data Type\u0027s Tutorial\\EmployeeAApplication\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C5986620-7AD0-4F3D-B8EC-7E49C5C7DF49}|EmployeeAApplication\\EmployeeAApplication.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\data type\u0027s tutorial\\employeeaapplication\\employeeaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5986620-7AD0-4F3D-B8EC-7E49C5C7DF49}|EmployeeAApplication\\EmployeeAApplication.csproj|solutionrelative:employeeaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,15 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -45,17 +36,8 @@
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\Data Type\u0027s Tutorial\\EmployeeAApplication\\EmployeeAApplication\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeAApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\Data Type\u0027s Tutorial\\EmployeeAApplication\\EmployeeAApplication\\Program.cs",
-              "RelativeToolTip": "EmployeeAApplication\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAYwE8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:40:16.052Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

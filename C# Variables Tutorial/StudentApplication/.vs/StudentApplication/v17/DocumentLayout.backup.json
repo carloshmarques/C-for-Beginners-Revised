@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\Data Type\u0027s Tutorial\\EmployeeAApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\C# Variables Tutorial\\StudentApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5986620-7AD0-4F3D-B8EC-7E49C5C7DF49}|EmployeeAApplication\\EmployeeAApplication.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\data type\u0027s tutorial\\employeeaapplication\\employeeaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5986620-7AD0-4F3D-B8EC-7E49C5C7DF49}|EmployeeAApplication\\EmployeeAApplication.csproj|solutionrelative:employeeaapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B57F9A3-306C-4E28-9839-662E825B0AF5}|StudentApplication\\StudentApplication.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\c# variables tutorial\\studentapplication\\studentapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B57F9A3-306C-4E28-9839-662E825B0AF5}|StudentApplication\\StudentApplication.csproj|solutionrelative:studentapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,13 +44,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\Data Type\u0027s Tutorial\\EmployeeAApplication\\EmployeeAApplication\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeAApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\Data Type\u0027s Tutorial\\EmployeeAApplication\\EmployeeAApplication\\Program.cs",
-              "RelativeToolTip": "EmployeeAApplication\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAYwE8AAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\C# Variables Tutorial\\StudentApplication\\StudentApplication\\Program.cs",
+              "RelativeDocumentMoniker": "StudentApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\C# Variables Tutorial\\StudentApplication\\StudentApplication\\Program.cs",
+              "RelativeToolTip": "StudentApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T14:40:16.052Z",
+              "WhenOpened": "2025-03-23T13:38:30.716Z",
               "EditorCaption": ""
             },
             {
