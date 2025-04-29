@@ -1,0 +1,7 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\C# Variables Tutorial\StudentApplication\StudentApplication\bin\Debug\StudentApplication.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\C# Variables Tutorial\StudentApplication\StudentApplication\bin\Debug\StudentApplication.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\C# Variables Tutorial\StudentApplication\StudentApplication\bin\Debug\StudentApplication.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\C# Variables Tutorial\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\C# Variables Tutorial\StudentApplication\StudentApplication\obj\Debug\StudentApplication.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\C# Variables Tutorial\StudentApplication\StudentApplication\obj\Debug\StudentApplication.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\C# Variables Tutorial\StudentApplication\StudentApplication\obj\Debug\StudentApplication.pdb
