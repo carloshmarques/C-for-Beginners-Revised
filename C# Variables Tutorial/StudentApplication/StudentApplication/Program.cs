@@ -23,7 +23,7 @@ namespace StudentApplication
         {
             
             // Property assignments go here:
-            /// <INT32>
+            /// <INT32>  777777
             /*
              * This integer data type is a 32 bit data type
              *  it is a signed data type which means it supports both positive and negative values
