@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\DataTypeConversionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577AF699-DF51-455F-B588-BF5375F3F98B}|DataTypeConversionExample\\DataTypeConversionExample.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\datatypeconversionexample\\datatypeconversionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577AF699-DF51-455F-B588-BF5375F3F98B}|DataTypeConversionExample\\DataTypeConversionExample.csproj|solutionrelative:datatypeconversionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\DataTypeConversionExample\\DataTypeConversionExample\\Program.cs",
+              "RelativeDocumentMoniker": "DataTypeConversionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\DataTypeConversionExample\\DataTypeConversionExample\\Program.cs",
+              "RelativeToolTip": "DataTypeConversionExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:41:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -146,12 +146,6 @@ namespace StudentApplication
 
             loanAmount = Decimal.Parse(Console.ReadLine(), NumberStyles.AllowDecimalPoint, CultureInfo.InvariantCulture);
 
-            /*
-             * Using Regex for Flexible Input
-             * Regular expressions to detect more complex patterns in the input. 
-             * For example, you might want to match words that sound like "male" or "female" even with minor typos.
-             */
-
             Console.WriteLine("Please enter the student's gender  ('f' = female, 'm' = male)");
 
             gender = Convert.ToChar(Console.ReadLine());
@@ -205,9 +199,6 @@ namespace StudentApplication
             Console.ReadKey();
 
             // link: https://youtu.be/rM9HostBLJ4?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di&t=926
-
-
-
         }
     }
 }
