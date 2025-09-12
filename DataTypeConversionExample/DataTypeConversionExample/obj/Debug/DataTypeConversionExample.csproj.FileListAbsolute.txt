@@ -1,0 +1,7 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\DataTypeConversionExample.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\DataTypeConversionExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\DataTypeConversionExample\DataTypeConversionExample\bin\Debug\DataTypeConversionExample.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\DataTypeConversionExample.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\DataTypeConversionExample.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\DataTypeConversionExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\DataTypeConversionExample\DataTypeConversionExample\obj\Debug\DataTypeConversionExample.pdb
