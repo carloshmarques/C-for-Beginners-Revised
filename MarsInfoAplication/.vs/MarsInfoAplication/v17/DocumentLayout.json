@@ -3,18 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{572BB350-E181-4420-8E0D-2F6EEAD44B6A}|MarsInfoAplication\\MarsInfoAplication.csproj|C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\marsinfoaplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572BB350-E181-4420-8E0D-2F6EEAD44B6A}|MarsInfoAplication\\MarsInfoAplication.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\marsinfoaplication\\marsinfoaplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572BB350-E181-4420-8E0D-2F6EEAD44B6A}|MarsInfoAplication\\MarsInfoAplication.csproj|solutionrelative:marsinfoaplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BB350-E181-4420-8E0D-2F6EEAD44B6A}|MarsInfoAplication\\MarsInfoAplication.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\marsinfoaplication\\marsinfoaplication\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572BB350-E181-4420-8E0D-2F6EEAD44B6A}|MarsInfoAplication\\MarsInfoAplication.csproj|C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\marsinfoaplication\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572BB350-E181-4420-8E0D-2F6EEAD44B6A}|MarsInfoAplication\\MarsInfoAplication.csproj|solutionrelative:marsinfoaplication\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MarsInfoAplication||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BB350-E181-4420-8E0D-2F6EEAD44B6A}|MarsInfoAplication\\MarsInfoAplication.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\marsinfoaplication\\marsinfoaplication\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +23,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\MarsInfoAplication\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "MarsInfoAplication\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\MarsInfoAplication\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "MarsInfoAplication\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T13:04:26.578Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
@@ -65,6 +49,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\MarsInfoAplication\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MarsInfoAplication\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\MarsInfoAplication\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "MarsInfoAplication\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T13:04:26.578Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MarsInfoAplication",
               "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\MarsInfoAplication\\MarsInfoAplication.csproj",
@@ -72,8 +68,7 @@
               "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\MarsInfoAplication\\MarsInfoAplication.csproj",
               "RelativeToolTip": "MarsInfoAplication\\MarsInfoAplication.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-14T12:51:23.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T12:51:23.831Z"
             },
             {
               "$type": "Document",
@@ -83,7 +78,7 @@
               "RelativeDocumentMoniker": "MarsInfoAplication\\Program.cs",
               "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\MarsInfoAplication\\MarsInfoAplication\\Program.cs",
               "RelativeToolTip": "MarsInfoAplication\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T23:51:31.452Z",
               "EditorCaption": ""
