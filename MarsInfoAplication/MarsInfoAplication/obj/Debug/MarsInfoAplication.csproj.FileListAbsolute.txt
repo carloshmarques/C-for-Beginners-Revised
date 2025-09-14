@@ -1,0 +1,13 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\obj\Debug\MarsInfoAplication.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\obj\Debug\MarsInfoAplication.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\MarsInfoAplication.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\MarsInfoAplication.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\MarsInfoAplication.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\obj\Debug\MarsInfo.5B287A0E.Up2Date
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\obj\Debug\MarsInfoAplication.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\obj\Debug\MarsInfoAplication.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\System.Security.AccessControl.dll
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\System.Security.Permissions.dll
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\MarsInfoAplication\MarsInfoAplication\bin\Debug\System.Configuration.ConfigurationManager.xml
