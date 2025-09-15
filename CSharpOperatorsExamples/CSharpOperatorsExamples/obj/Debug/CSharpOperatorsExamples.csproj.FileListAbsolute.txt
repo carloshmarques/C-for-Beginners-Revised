@@ -1,0 +1,7 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\bin\Debug\CSharpOperatorsExamples.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\bin\Debug\CSharpOperatorsExamples.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\bin\Debug\CSharpOperatorsExamples.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.pdb
