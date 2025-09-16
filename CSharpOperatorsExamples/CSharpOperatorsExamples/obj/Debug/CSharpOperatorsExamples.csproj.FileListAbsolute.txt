@@ -5,3 +5,4 @@ C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsEx
 C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.csproj.CoreCompileInputs.cache
 C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.exe
 C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpOperatorsExamples\CSharpOperatorsExamples\obj\Debug\CSharpOperatorsExamples.exe.config
