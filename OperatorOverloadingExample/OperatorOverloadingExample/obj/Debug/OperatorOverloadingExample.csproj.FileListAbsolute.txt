@@ -1,0 +1,7 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\OperatorOverloadingExample\OperatorOverloadingExample\bin\Debug\OperatorOverloadingExample.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\OperatorOverloadingExample\OperatorOverloadingExample\bin\Debug\OperatorOverloadingExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\OperatorOverloadingExample\OperatorOverloadingExample\bin\Debug\OperatorOverloadingExample.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\OperatorOverloadingExample\OperatorOverloadingExample\obj\Debug\OperatorOverloadingExample.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\OperatorOverloadingExample\OperatorOverloadingExample\obj\Debug\OperatorOverloadingExample.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\OperatorOverloadingExample\OperatorOverloadingExample\obj\Debug\OperatorOverloadingExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\OperatorOverloadingExample\OperatorOverloadingExample\obj\Debug\OperatorOverloadingExample.pdb

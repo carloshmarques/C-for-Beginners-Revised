@@ -356,7 +356,7 @@ namespace CSharpOperatorsExamples
         public static void LogToScreen(string line)
         {
             Console.WriteLine(line);
-            Console.ReadKey();
+           
         }
 
     }
