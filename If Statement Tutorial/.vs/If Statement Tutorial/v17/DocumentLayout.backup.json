@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\If Statement Tutorial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9722D9F6-47BD-4BE1-96AE-967EEE800F35}|If Statement Tutorial\\If Statement Tutorial.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\if statement tutorial\\if statement tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9722D9F6-47BD-4BE1-96AE-967EEE800F35}|If Statement Tutorial\\If Statement Tutorial.csproj|solutionrelative:if statement tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83CA3448-6B33-48BD-80AA-5F040F6164F2}|Part2\\Part2.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\if statement tutorial\\part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83CA3448-6B33-48BD-80AA-5F040F6164F2}|Part2\\Part2.csproj|solutionrelative:part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\If Statement Tutorial\\If Statement Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "If Statement Tutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\If Statement Tutorial\\If Statement Tutorial\\Program.cs",
+              "RelativeToolTip": "If Statement Tutorial\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:31:56.717Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
@@ -42,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\If Statement Tutorial\\Part2\\Program.cs",
               "RelativeDocumentMoniker": "Part2\\Program.cs",
               "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\If Statement Tutorial\\Part2\\Program.cs",
               "RelativeToolTip": "Part2\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAsAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T07:26:43.767Z",
               "EditorCaption": ""
