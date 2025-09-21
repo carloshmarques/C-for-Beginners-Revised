@@ -1,0 +1,8 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\bin\Debug\ContinueLoop.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\bin\Debug\ContinueLoop.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\bin\Debug\ContinueLoop.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\obj\Debug\ContinueLoop.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\obj\Debug\ContinueLoop.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\obj\Debug\ContinueLoop.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\obj\Debug\ContinueLoop.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\ContinueLoop\obj\Debug\ContinueLoop.exe.config

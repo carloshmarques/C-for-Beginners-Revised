@@ -1,0 +1,8 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\obj\Debug\NestedForLoopDecrementExample.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\obj\Debug\NestedForLoopDecrementExample.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\bin\Debug\NestedForLoopDecrementExample.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\bin\Debug\NestedForLoopDecrementExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\bin\Debug\NestedForLoopDecrementExample.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\obj\Debug\NestedForLoopDecrementExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\obj\Debug\NestedForLoopDecrementExample.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\NestedForLoopDecrementExample\obj\Debug\NestedForLoopDecrementExample.exe.config

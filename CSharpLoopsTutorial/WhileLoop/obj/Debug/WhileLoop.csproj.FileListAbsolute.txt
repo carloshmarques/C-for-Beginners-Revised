@@ -1,0 +1,8 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\obj\Debug\WhileLoop.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileLoop\obj\Debug\WhileLoop.exe.config

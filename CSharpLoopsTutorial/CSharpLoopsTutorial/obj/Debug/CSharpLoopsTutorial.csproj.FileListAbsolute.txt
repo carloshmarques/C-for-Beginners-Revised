@@ -1,0 +1,8 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\bin\Debug\CSharpLoopsTutorial.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\bin\Debug\CSharpLoopsTutorial.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\bin\Debug\CSharpLoopsTutorial.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\obj\Debug\CSharpLoopsTutorial.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\obj\Debug\CSharpLoopsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\obj\Debug\CSharpLoopsTutorial.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\obj\Debug\CSharpLoopsTutorial.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\CSharpLoopsTutorial\obj\Debug\CSharpLoopsTutorial.exe.config

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{532C4B0C-91D4-42E1-A86E-845A8F5C54B6}|CSharpLoopsTutorial\\CSharpLoopsTutorial.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\csharploopstutorial\\csharploopstutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{532C4B0C-91D4-42E1-A86E-845A8F5C54B6}|CSharpLoopsTutorial\\CSharpLoopsTutorial.csproj|solutionrelative:csharploopstutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D862243-2E15-44DE-83AC-567CEA813C9B}|ForEachLoop\\ForEachLoop.csproj|c:\\users\\carlo\\documents\\github\\master\\c-for-beginners-revised\\csharploopstutorial\\foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D862243-2E15-44DE-83AC-567CEA813C9B}|ForEachLoop\\ForEachLoop.csproj|solutionrelative:foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375522F0-FA6D-4C11-8EF1-ADC7336464C7}|NestedForLoopDecrementExample\\NestedForLoopDecrementExample.csproj|C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\nestedforloopdecrementexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375522F0-FA6D-4C11-8EF1-ADC7336464C7}|NestedForLoopDecrementExample\\NestedForLoopDecrementExample.csproj|solutionrelative:nestedforloopdecrementexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55D9608-B6BB-4FE8-83D0-FE09D48B6848}|ForLoop\\ForLoop.csproj|C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55D9608-B6BB-4FE8-83D0-FE09D48B6848}|ForLoop\\ForLoop.csproj|solutionrelative:forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,14 +52,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\CSharpLoopsTutorial\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpLoopsTutorial\\Program.cs",
-              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\CSharpLoopsTutorial\\Program.cs",
-              "RelativeToolTip": "CSharpLoopsTutorial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\ForEachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "ForEachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\ForEachLoop\\Program.cs",
+              "RelativeToolTip": "ForEachLoop\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T12:38:49.101Z",
+              "WhenOpened": "2025-09-20T21:19:48.753Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\NestedForLoopDecrementExample\\Program.cs",
+              "RelativeDocumentMoniker": "NestedForLoopDecrementExample\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\NestedForLoopDecrementExample\\Program.cs",
+              "RelativeToolTip": "NestedForLoopDecrementExample\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:56:53.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\ForLoop\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\Documents\\GitHub\\master\\C-for-Beginners-Revised\\CSharpLoopsTutorial\\ForLoop\\Program.cs",
+              "RelativeToolTip": "ForLoop\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:56:13.285Z"
             }
           ]
         }

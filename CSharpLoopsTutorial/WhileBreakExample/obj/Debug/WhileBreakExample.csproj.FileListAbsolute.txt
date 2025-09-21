@@ -1,0 +1,8 @@
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\bin\Debug\WhileBreakExample.exe.config
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\bin\Debug\WhileBreakExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\bin\Debug\WhileBreakExample.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\obj\Debug\WhileBreakExample.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\obj\Debug\WhileBreakExample.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\obj\Debug\WhileBreakExample.exe
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\obj\Debug\WhileBreakExample.pdb
+C:\Users\carlo\Documents\GitHub\master\C-for-Beginners-Revised\CSharpLoopsTutorial\WhileBreakExample\obj\Debug\WhileBreakExample.exe.config
