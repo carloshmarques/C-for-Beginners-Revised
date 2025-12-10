@@ -21,7 +21,7 @@ namespace HelloName
             // Console Greats the user by name, option 1: using string interpolation
             //  Console.WriteLine($"Hello, {name}; ");   // string interpolation example
             // Console Greats the user by name,using string interpolaption option 2 
-            Console.WriteLine("Hello, {0}!", name); // {0} is a place holder for the name variable
+            Console.WriteLine("Hello man, {0}!", name); // {0} is a place holder for the name variable
             Console.ReadKey();
             // Conitnue here:https://youtu.be/2pquQMSYk6c?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di&t=1067
         }
